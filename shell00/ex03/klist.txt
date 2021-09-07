@@ -1,0 +1,5 @@
+Credentials cache: API:5AC73024-233D-44C3-B5AB-B25B04ED88ED
+        Principal: wlee@42KL.EDU.MY
+
+  Issued                Expires               Principal
+Jul 27 01:18:01 2021  Jul 27 11:17:53 2021  krbtgt/42KL.EDU.MY@42KL.EDU.MY
